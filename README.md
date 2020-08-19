@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Getting-and-Cleaning-Data-Course-Project - BACKGROUND INFO
 Final, peer-graded assignment for the Coursera course on Getting and Cleaning Data.
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 Review criteria
